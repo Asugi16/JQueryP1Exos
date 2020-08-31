@@ -1,0 +1,15 @@
+.color{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
+}
+.purple{
+  background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: pink;
+}
